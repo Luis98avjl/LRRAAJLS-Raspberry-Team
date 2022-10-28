@@ -34,6 +34,8 @@ while True:
   
   ### Imagenes del circuito
   
+  ![1666996905704](https://user-images.githubusercontent.com/99373882/198746941-beaf665b-f222-42d5-85af-254e8f9e2e9c.jpg)
+
  
  
 ## Flame
@@ -359,7 +361,8 @@ BuzzerObj.deinit()
   ### * Corrida
   
   ### * Imagenes del circuito
-  
+  ![1666996945350](https://user-images.githubusercontent.com/99373882/198746959-51e16cb4-1565-448f-a856-c2176ba11dd9.jpg)
+
   
 ## Reed switch
 
@@ -406,6 +409,8 @@ while 1==1:
   ![Screenshot_3](https://user-images.githubusercontent.com/99373882/196571975-12001837-7a48-4c41-82c6-1bd397529fd1.png)
   ### * Imagenes del circuito
   
+  ![1666996945345](https://user-images.githubusercontent.com/99373882/198746987-61b90273-c06c-47cf-b874-0903dafa58f2.jpg)
+
 ## Ky-015 Temp 
 
   ### * Codigo
