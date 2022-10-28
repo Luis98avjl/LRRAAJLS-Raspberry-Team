@@ -32,6 +32,8 @@ while True:
   ~~~~
   ### Corrida
   
+  ![image](https://user-images.githubusercontent.com/99373882/198747619-072d5437-fa70-4d74-a185-0aa833ccd817.png)
+  
   ### Imagenes del circuito
   
   ![1666996905704](https://user-images.githubusercontent.com/99373882/198746941-beaf665b-f222-42d5-85af-254e8f9e2e9c.jpg)
@@ -359,6 +361,8 @@ buzzer(BuzzerObj,la5,0.5,0.1)
 BuzzerObj.deinit()
   ~~~~
   ### * Corrida
+  
+  ![image](https://user-images.githubusercontent.com/99373882/198747542-c0625f35-d8f5-48d0-bfd4-aeab13b235b9.png)
   
   ### * Imagenes del circuito
   ![1666996945350](https://user-images.githubusercontent.com/99373882/198746959-51e16cb4-1565-448f-a856-c2176ba11dd9.jpg)
